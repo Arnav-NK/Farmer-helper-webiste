@@ -9,7 +9,9 @@ This project is a simple and educational web platform designed to help farmers b
 🌐 Integrated Google Search Engine – Allows users to quickly find government documents and schemes related to farming needs
 
 🎯 Educational Focus – Built to support learning and awareness in agriculture
-
+    
+    live at :  https://arnav-nk.github.io/Farmer-helper-webiste/
+    
 🛠️ Tech Stack
 
 HTML – Structure of the website
@@ -19,3 +21,4 @@ CSS – Styling and layout
 🚀 Purpose
 
 The goal of this project is to create a lightweight, accessible, and easy-to-use website that can assist farmers and learners in finding useful agricultural information without technical complexity.
+
